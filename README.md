@@ -1,21 +1,33 @@
-##  🙋‍♀️ Hello There! I am Afrin Binta Amzad
-#### Front End Web Developer From Bangladesh
-I'm Afrin Binta Amzad. I am Front-End Web Developer by passion.  I'm always working on a new project to help the community.  
+<h1 align="center">Hi 👋, I'm Afrin Binta Amzad</h1>
+<h3 align="center">Frontend Developer from Bangladesh</h3>
 
-Skills: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind, Java, Basic Python
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinbintaamzad&label=Profile%20views&color=0e75b6&style=flat" alt="afrinbintaamzad" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrinbintaamzad" alt="afrinbintaamzad" /></a> </p>
 
+- 🔭 My Portfolio [https://afrinbintaamzad.netlify.app/](https://afrinbintaamzad.netlify.app/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AfrinBintaAmzad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afrinbintaamzad-toru-0948811a1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/afrinbintaamzad.toru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afrinbintaamzad.netlify.app/)  
+- 🌱 I’m currently learning about **React and Node.JS**
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- I created few websites with html5,css3,JS,Bootstrp,React. Here is the example of two websites. [BookStorage](https://affectionate-curie-51e274.netlify.app)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AfrinBintaAmzad)](https://github.com/ryo-ma/github-profile-trophy)
+- 👨‍💻 All of my projects are available at [https://afrinbintaamzad.netlify.app/](https://afrinbintaamzad.netlify.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinBintaAmzad)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,React**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AfrinBintaAmzad&show_icons=true&count_private=true)  
+- 📫 How to reach me **afrin.binta.amzad@g.bracu.ac.bd**
 
-![GitHub metrics](https://metrics.lecoq.io/AfrinBintaAmzad)  
+- ⚡ About Myself: **I am Computer Science Engineer Student of BRAC University. I am passionate about web development and think critically to make websites. Other than that, I am painter. Painting is my hobby. Great! If you talk to me I am pretty sure you will love to talk and work with me. Thank You!**
 
-![Profile views](https://gpvc.arturio.dev/AfrinBintaAmzad)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/afrinbintaamzad-toru-0948811a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afrinbintaamzad-toru-0948811a1/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/afrinbintaamzad.toru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afrinbintaamzad.toru" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinbintaamzad&show_icons=true&locale=en&layout=compact" alt="afrinbintaamzad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinbintaamzad&" alt="afrinbintaamzad" /></p>
