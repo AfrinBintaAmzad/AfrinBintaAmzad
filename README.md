@@ -10,7 +10,10 @@ I'm Afrin Binta Amzad Front-End Web Developer from Bangladesh and do content on 
 🎃 CSS3
 🌈 Bootstrap
 〽 Tailwind
-🔻
+
+<h2>Languages</h2>
+🔻 Java
+💥 Basic Python
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinbintaamzad&label=Profile%20views&color=0e75b6&style=flat" alt="afrinbintaamzad" /> </p>
