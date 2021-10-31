@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afrin Binta Amzad</h1>
+<h1 align="center">🙋‍♀️ Hi, I'm Afrin Binta Amzad</h1>
 
 <h2 align="left"> Who Am I: </h3>
 I'm Afrin Binta Amzad , do content on web development. I enjoy learning new languages and frameworks. 
