@@ -28,7 +28,7 @@ I'm Afrin Binta Amzad , do content on web development. I enjoy learning new lang
 
 - 👨‍💻 All of my projects are available at [https://afrinbintaamzad.netlify.app/](https://afrinbintaamzad.netlify.app/)
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,React**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,React,JAVA,Python**
 
 - 📫 How to reach me **afrin.binta.amzad@g.bracu.ac.bd**
 
