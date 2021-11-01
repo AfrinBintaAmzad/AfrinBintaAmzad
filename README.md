@@ -20,13 +20,12 @@ I'm Afrin Binta Amzad , do content on web development. I enjoy learning new lang
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrinbintaamzad" alt="afrinbintaamzad" /></a> </p>
 
-- 🔭 My Portfolio [https://afrinbintaamzad.netlify.app/](https://afrinbintaamzad.netlify.app/)
+
 
 - 🌱 I’m currently learning about **React and Node.JS**
 
 - I created few websites with html5,css3,JS,Bootstrp,React. Here is the example of two websites. [BookStorage](https://affectionate-curie-51e274.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://afrinbintaamzad.netlify.app/](https://afrinbintaamzad.netlify.app/)
 
 - 💬 Ask me about **HTML5,CSS3,Bootstrap,JavaScript,React,JAVA,Python**
 
